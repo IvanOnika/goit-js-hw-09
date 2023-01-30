@@ -1,5 +1,5 @@
 {
-  "name": "goit-js-hw-09",
+  "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
   "homepage": "https://IvanOnika.github.io/goit-js-hw-09",
@@ -17,7 +17,11 @@
     "url": "https://github.com/IvanOnika/goit-js-hw-09/issues"
   },
   "dependencies": {
-    "modern-normalize": "^1.1.0"
+    "@vimeo/player": "^2.18.0",
+    "loadash": "^1.0.0",
+    "lodash.throttle": "^4.1.1",
+    "modern-normalize": "^1.1.0",
+    "simplelightbox": "^2.12.1"
   },
   "devDependencies": {
     "@parcel/transformer-sass": "^2.6.0",
