@@ -16,3 +16,37 @@ img {
   display: block;
   max-width: 100%;
 }
+button {
+  border: none;
+  border-radius: 15px;
+  background-color: rgb(236, 193, 4);
+  padding: 15px 40px;
+  font-size: 18px;
+  margin-right: 10px;
+}
+
+button:focus {
+  background-color: rgb(236, 193, 4);
+  box-shadow: 2px 2px 2px 1px rgba(1, 5, 119, 0.2);
+}
+
+input {
+  padding-top: 5px;
+  padding-bottom: 5px;
+  margin-right: 5px;
+  font-size: 25px;
+}
+
+span {
+  font-size: 25px;
+  font-style: italic;
+  font-weight: bold;
+}
+
+.timer {
+  display: flex;
+}
+
+.field {
+  padding-right: 10px;
+}
